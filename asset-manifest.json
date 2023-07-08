@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Restaurant-Website/static/css/main.26ef7a63.css",
+    "main.js": "/Restaurant-Website/static/js/main.5d4bf6c3.js",
+    "static/media/banner9.jpg": "/Restaurant-Website/static/media/banner9.dd86562b9796e803d675.jpg",
+    "static/media/masala.jpg": "/Restaurant-Website/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
+    "static/media/chhola.jpg": "/Restaurant-Website/static/media/chhola.a1458ef1370699c23212.jpg",
+    "static/media/paneer.jpg": "/Restaurant-Website/static/media/paneer.f04d2c563fe596463e47.jpg",
+    "static/media/idli.jpg": "/Restaurant-Website/static/media/idli.dc2d98fda6c7a903c64b.jpg",
+    "static/media/gujrati.jpeg": "/Restaurant-Website/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
+    "static/media/dosa.jpg": "/Restaurant-Website/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "static/media/swagatw.jpg": "/Restaurant-Website/static/media/swagatw.0726d33279f538548d9b.jpg",
+    "static/media/swagatb.png": "/Restaurant-Website/static/media/swagatb.13baea399e96a9374c75.png",
+    "index.html": "/Restaurant-Website/index.html",
+    "main.26ef7a63.css.map": "/Restaurant-Website/static/css/main.26ef7a63.css.map",
+    "main.5d4bf6c3.js.map": "/Restaurant-Website/static/js/main.5d4bf6c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26ef7a63.css",
+    "static/js/main.5d4bf6c3.js"
+  ]
+}
